@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Dedicated to outfitting graffiti artists and activists with open source technologies for urban communication.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: https://twitter.com/GRLCanada
-github_username:  https://github.com/GraffitiResearchLabCanada
+twitter_username: GRLCanada
+github_username:  GraffitiResearchLabCanada
 
 # Build settings
 markdown: kramdown
